@@ -10,10 +10,7 @@
 
 @implementation AppDelegate
 
-- (void)dealloc
-{
-    [super dealloc];
-}
+@synthesize window;
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
