@@ -1,4 +1,4 @@
 SDL-Game
 ========
 
-This is a SDL/OpenGL game made in C++.
+This ~~is~~will be a SDL/OpenGL game made in C++... Sometime...
